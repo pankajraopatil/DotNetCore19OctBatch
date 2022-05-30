@@ -6,6 +6,8 @@ namespace DemoProgram
     public static void Main()
     {
       Console.WriteLine("Sample Program Created");
+Console.WriteLine("Demo Program");
+
     }
    }
  }
